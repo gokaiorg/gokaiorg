@@ -1,0 +1,1 @@
+Gokai, a pure storie.

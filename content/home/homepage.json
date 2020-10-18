@@ -1,0 +1,22 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "background": "../images/background.jpg",
+  "logo": "../images/logo.svg",
+  "class": "background",
+  "gallery": [{
+    "title": "Energy",
+    "copy": "",
+    "image": ""
+  },
+  {
+    "title": "Community",
+    "copy": "",
+    "image": "../images/gallery/marketing-strategy.jpg"
+  },
+  {
+    "title": "Farming",
+    "copy": "",
+    "image": ""
+  }]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gokai.org/sitemap.xml
