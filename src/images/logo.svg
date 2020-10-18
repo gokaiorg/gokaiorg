@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="511.688" height="790.688" viewBox="0 0 511.688 790.688">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 54.792px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="244.156" y="105.156" width="511.688" height="790.688" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-244.156 -105.156)" style="fill: none; filter: url(#filter)">
+    <path id="Forme_1_copie_4" data-name="Forme 1 copie 4" class="cls-1" d="M725.048,132.562s-452.723,33.175-453.5,457.029c-1.559,214.222,151.4,282.128,267.875,278.737C662.385,870.45,730.618,781.37,728.4,695.9c-3.28-81.454-69.73-123.546-112.356-120.349-48.109,3.608-77.1,37.789-70.283,80.23,3.872,24.117,28.657,38.346,41.235,38.445,16,0.125,32.343-3.376,34.305-23.438-1.7-12.771-5.863-15.9-15.9-15.9" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-244.156 -105.156)" xlink:href="#Forme_1_copie_4" style="stroke: #000; filter: none; fill: none"/>
+</svg>
