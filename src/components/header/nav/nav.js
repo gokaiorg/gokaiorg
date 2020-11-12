@@ -6,6 +6,11 @@ const Nav = () => (
   <Container>
     <ul>
       <li>
+        <a href="https://gokai.shop/">
+          Shop
+        </a>
+      </li>
+      <li>
         <Link to="/contact">Contact</Link>
       </li>
     </ul>
