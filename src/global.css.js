@@ -108,7 +108,6 @@ export default createGlobalStyle`
     max-width: 100%;
     display: table;
     --aspect-ratio: 16/3;
-    background: black;
     color: #260101;
 
     h4 {
