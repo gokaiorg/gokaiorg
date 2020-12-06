@@ -10,9 +10,15 @@ export const Container = styled.header`
     color: #fff;
     transition: color 0.2s ease;
     text-decoration: none;
+    display: flex;
+    align-items: center;
 
     &:hover {
       color: inherit;
+    }
+
+    h1 {
+      margin-left: 2rem;
     }
   }
 `;

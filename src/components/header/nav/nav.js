@@ -6,19 +6,25 @@ const Nav = () => (
   <Container>
     <ul>
       <li>
-        <a href="https://gokai.shop/">
-          Shop
-        </a>
-      </li>
-      <li>
-        <a href="https://app.zerion.io/0x41646fb881acd56bad144b343a3525b6907bc86b/overview" target="_blank">
+        <a
+          href="https://app.zerion.io/0x41646fb881acd56bad144b343a3525b6907bc86b/overview"
+          target="_blank"
+          rel="noreferrer"
+        >
           Fund
         </a>
       </li>
       <li>
-        <a href="https://snapshot.page/#/gokai.eth" target="_blank">
+        <a
+          href="https://snapshot.page/#/gokai.eth"
+          target="_blank"
+          rel="noreferrer"
+        >
           Vote
         </a>
+      </li>
+      <li>
+        <a href="https://gokai.shop/">Shop</a>
       </li>
       <li>
         <Link to="/contact">Contact</Link>

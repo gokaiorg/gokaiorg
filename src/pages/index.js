@@ -4,7 +4,7 @@ import Layout from 'components/layout';
 import Box from 'components/box';
 import Title from 'components/title';
 // import Gallery from 'components/gallery';
-// import Modal from 'containers/modal';
+import Modal from 'containers/modal';
 import { graphql } from 'gatsby';
 
 const Index = ({ data }) => (
@@ -13,16 +13,13 @@ const Index = ({ data }) => (
       <Title as="h2" size="large">
         {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
-
-      {/*<Modal>*/}
-      {/*  <iframe*/}
-      {/*    title="Google Map"*/}
-      {/*    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.1170782553304!2d98.36585821510056!3d7.882817594320979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3050319a730d6bd7%3A0xd5b0869e6d63db14!2sNaka%20Condo!5e0!3m2!1sfr!2sth!4v1590934830363!5m2!1sfr!2sth"*/}
-      {/*    width="1200"*/}
-      {/*    height="600"*/}
-      {/*    frameBorder="0"*/}
-      {/*  />*/}
-      {/*</Modal>*/}
+      <h3>{data.homeJson.donate}</h3>
+      <Modal>
+        <h4>gokai.argent.xyz (Recommended)</h4>
+        <p>0x41646Fb881Acd56bad144B343A3525B6907Bc86b</p>
+        <h4>gokai.eth</h4>
+        <p>0x71dFf12E24Db711b99a64a8A1d904cd256A49e58</p>
+      </Modal>
     </Box>
     {/*<Gallery items={data.homeJson.gallery} />*/}
   </Layout>
@@ -30,7 +27,6 @@ const Index = ({ data }) => (
 
 Index.propTypes = {
   data: PropTypes.object.isRequired,
-  background: PropTypes.object.isRequired,
 };
 
 export default Index;
@@ -39,13 +35,7 @@ export const query = graphql`
   query HomepageQuery {
     homeJson {
       title
-      background {
-        childImageSharp {
-          fluid(maxHeight: 2500, quality: 90) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
-        }
-      }
+      donate
       content {
         childMarkdownRemark {
           html

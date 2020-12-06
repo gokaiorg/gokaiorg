@@ -104,10 +104,24 @@ export default createGlobalStyle`
   }
 
   [data-reach-dialog-content] {
-    width: 70vw !important;
+    width: 50vw !important;
     max-width: 100%;
     display: table;
-    --aspect-ratio: 16/9;
+    --aspect-ratio: 16/3;
+    background: black;
+    color: #260101;
+
+    h4 {
+      font-size: 1.8rem;
+      font-weight: bold;
+      margin: 1rem 0 2rem 0;
+    }
+
+    p {
+      font-size: 1.6rem;
+      margin-bottom: 2rem;
+    }
+
   }
 
   [data-reach-dialog-content] iframe {
@@ -122,12 +136,6 @@ export default createGlobalStyle`
 
     [data-reach-dialog-content] {
       position: relative;
-    }
-
-    [data-reach-dialog-content]::before {
-      content: "";
-      display: block;
-      padding-bottom: calc(100% / (var(--aspect-ratio)));
     }
 
     [data-reach-dialog-content] iframe {

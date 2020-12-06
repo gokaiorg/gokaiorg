@@ -10,7 +10,15 @@ import Img from 'gatsby-image';
 const Layout = ({ data, children }) => (
   <div>
     <GlobalStyle />
-    <Img fluid={data.homeJson.background ? data.homeJson.background.childImageSharp.fluid : {}} alt={data.homeJson.title} className={data.homeJson.class} />
+    <Img
+      fluid={
+        data.homeJson.background
+          ? data.homeJson.background.childImageSharp.fluid
+          : {}
+      }
+      alt={data.homeJson.title}
+      className={data.homeJson.class}
+    />
     <Head />
     <Header title={data.site.siteMetadata.siteTitle} />
     {children}

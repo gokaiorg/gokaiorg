@@ -2,14 +2,14 @@ import styled from 'styled-components';
 
 export const Button = styled.button`
   -webkit-appearance: none;
-  background-color: #fff;
-  border-radius: 5px;
+  background-color: #000;
+  border-radius: 22px;
   border: none;
-  color: #637371;
-  border: 1px solid #ddd;
+  color: #8dc76b;
+  border: 1px solid #8dc76b;
   cursor: pointer;
   font-family: inherit;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   font-weight: 500;
   margin: 4rem 0 2rem;
   padding: 1rem 2rem;
@@ -46,4 +46,8 @@ export const Close = styled.button`
   color: #fff;
   outline: none;
   cursor: pointer;
+`;
+
+export const Dialog = styled.div`
+  background: black;
 `;

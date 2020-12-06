@@ -1,8 +1,8 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Gokai`,
-  siteTitleShort: `Gokai`,
+  siteTitle: `Organisation`,
+  siteTitleShort: `GokaiOrg`,
   siteDescription: `Just today, I do not get angry, I do not care, I am grateful, I walk with courage, I take care of others.`,
   siteUrl: `https://gokai.org`,
   themeColor: `#fff`,
@@ -10,6 +10,6 @@ module.exports = {
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
-    twitter: `https://gokai.org`,
+    twitter: `gokaiorg`,
   },
 };
