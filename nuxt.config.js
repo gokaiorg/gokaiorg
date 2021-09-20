@@ -25,8 +25,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '~/plugins/jsonld',
-    { src: '~/plugins/aos', mode: 'client', ssr: false }
+    '~/plugins/jsonld'
   ],
   /*
   ** Nuxt.js modules
@@ -95,5 +94,6 @@ export default {
     */
     extend (config, ctx) {
     }
-  }
+  },
+  target: 'static'
 }

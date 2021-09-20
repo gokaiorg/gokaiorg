@@ -8,13 +8,11 @@
     <div class="container max-w-screen-xl px-8 mx-auto m-8">
 
       <h2
-        data-aos="fade-up"
         class="w-full mb-4 text-3xl font-bold leading-tight text-black">
         {{ $t('team.title') }}
       </h2>
 
       <p
-        data-aos="fade-up"
         class="mb-4"
       >
         {{ $t('team.description') }}
@@ -30,11 +28,11 @@
       <div class="flex flex-col md:flex-row mt-8">
 
         <div class="flex flex-col w-full md:w-3/12">
-          <div data-aos="fade-up"
+          <div
                class="bg-contain bg-no-repeat bg-center h-56 w-56 mb-4"
                style="background-image: url('team1.jpeg')">
           </div>
-          <div data-aos="fade-up"
+          <div
                class="w-full">
             <h3 class="text-2xl text-gray-800 font-bold leading-none mb-2">{{ $t('team.member01') }}</h3>
             <p class="text-gray-600 mb-2 font-semibold">{{ $t('team.role01') }}

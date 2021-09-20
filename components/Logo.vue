@@ -1,7 +1,6 @@
 <template>
 
   <div
-    data-aos="fade-right"
     class="flex mr-auto">
 
     <nuxt-link

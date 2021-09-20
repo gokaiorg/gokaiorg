@@ -10,15 +10,15 @@
         bg-white"
       id="nav-content">
       <ul class="font-semibold mt-8 md:mt-0 lg:flex justify-end flex-1 items-center">
-        <li data-aos="fade-left"
-            class="ml-4 md:ml-0 mr-10">
+        <li
+          class="ml-4 md:ml-0 mr-10">
           <a
             :href="`${$t('ghosts.anchor')}`">
             {{ $t('ghosts.title') }}
           </a>
         </li>
-        <li data-aos="fade-left"
-            class="ml-4 md:ml-0 mr-10">
+        <li
+          class="ml-4 md:ml-0 mr-10">
           <a
             :href="`${$t('team.anchor')}`">
             {{ $t('team.title') }}
@@ -31,7 +31,7 @@
         <!--            {{ $t('contact.title') }}-->
         <!--          </a>-->
         <!--        </li>-->
-        <li data-aos="fade-left">
+        <li>
 
           <nuxt-link
             class="btn-white"

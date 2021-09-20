@@ -8,13 +8,11 @@
     <div class="container max-w-screen-xl px-8 mx-auto my-12">
 
       <h2
-        data-aos="fade-up"
         class="w-full mb-4 text-3xl font-bold leading-tight text-black">
         {{ $t('ghosts.title') }}
       </h2>
 
       <p
-        data-aos="fade-up"
         class="mb-4"
       >
         {{ $t('ghosts.description') }}
@@ -33,7 +31,6 @@
           class="flex flex-wrap w-full md:w-4/12 md:mr-8"
         >
           <div
-            data-aos="fade-up"
             class="bg-cover bg-no-repeat bg-center h-96 w-96"
             :style="{ backgroundImage: `url(${client.pathLong})` }">
           </div>
