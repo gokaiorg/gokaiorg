@@ -5,6 +5,7 @@
       <FrontBanner/>
       <Ghosts/>
       <Team/>
+      <Partners/>
 
   </div>
 
@@ -15,13 +16,15 @@
   import FrontBanner from '~/components/FrontBanner.vue'
   import Ghosts from '~/components/Ghosts.vue'
   import Team from '~/components/Team.vue'
+  import Partners from '~/components/Partners.vue'
 
   export default {
     transition: "page",
     components: {
       FrontBanner,
       Ghosts,
-      Team
+      Team,
+      Partners
     },
     metaInfo: {},
     data() {

@@ -28,5 +28,18 @@ export default {
     github01: 'https://github.com/gokaiorg',
     seemore: 'Contact us',
     anchor: '#team'
+  },
+  partners: {
+    name: 'partners',
+    title: 'Partners',
+    description: 'Hello Elrond Fam, as you know a member of the Elrond community is rarely alone. Together we will change the world of money.',
+    block01: 'Community',
+    profile01: 'Gokai Labs is member of the Elrond World community on Discord',
+    link01: 'Join us',
+    block02: 'Shop',
+    profile02: 'Our online shop partner is going to launch soon, stay tuned',
+    link02: 'Coming soon',
+    seemore: 'Become a partner',
+    anchor: '#partners'
   }
 }
