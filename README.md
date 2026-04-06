@@ -1,67 +1,62 @@
 # 🚀 Gokai Labs
-> **Gokai Labs - AI-Powered Digital Solutions**
+> **AI-Powered Digital Solutions - We Build Digital Experiences That Matter**
 
-[![Website](https://img.shields.io/badge/Website-gokai.org-blue?style=flat-square)](https://gokai.org)
-[![Remote Work](https://img.shields.io/badge/Work%20Style-100%25%20Remote-green?style=flat-square)]()
-[![Experience](https://img.shields.io/badge/Experience-14%2B%20Years-orange?style=flat-square)]()
+[![Location](https://img.shields.io/badge/Location-Paris%2017e-1E293B?style=flat-square)]()
+[![Experience](https://img.shields.io/badge/Experience-15%20Years-06B6D4?style=flat-square)]()
+[![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Node%20%7C%20GCP-0EA5E9?style=flat-square)]()
 
 ---
 
 ## 🎯 **What We Do**
 
-We bridge **creative design** and **data-driven performance** to help businesses transform their digital presence through innovative web solutions powered by AI analytics.
+Gokai Labs is a modern digital laboratory bridging robust **software engineering** and **AI-driven automation**. We build scalable web applications, orchestrate intelligent business workflows, and provide high-end technical concierge services to founders and enterprises.
 
 ---
 
 ## 🛠️ **Our Services**
 
-### 🎨 **Creative Web Design**
-- Responsive web development (React, HTML5, CSS3)
-- UX/UI design with conversion optimization
-- CMS solutions (Shopify, Drupal, WP)
+### 💻 **Full-Stack Web Architecture**
+- Modern front-end & back-end development (Next.js 14+ App Router, Node.js, React)
+- Cloud infrastructure, serverless deployments & APIs (Google Cloud Platform)
+- High-performance, multilingual (i18n), and SEO-optimized web applications
 
-### 📊 **AI Analytics & Data Intelligence**
-- Custom analytics dashboards
-- User behavior analysis & A/B testing
-- Performance tracking & KPI monitoring
+### 🤖 **AI-Powered Business Automation**
+- Intelligent workflow orchestration (API integrations, low-code/no-code pipelines)
+- Local LLM and Web AI API integrations
+- Lead conversion engines and revenue optimization workflows
 
-### 🔍 **SEO & Digital Marketing**
-- Technical SEO audits & optimization
-- Campaign performance tracking
-- ROI measurement & analytics
+### 🛒 **Global E-commerce & Marketplaces**
+- Headless e-commerce templates and custom shop architectures
+- Catalog operations, API syncing, and seller technical support
+- Exclusive digital management and architecture for brand assets (e.g., Green Ghost)
 
-### 🌐 **Web3 & Blockchain**
-- Smart contract development
-- DAO management systems
-- DeFi analytics & visualization
+### 👔 **Executive Tech-Concierge & QA**
+- Remote CTO engagements and on-demand technical leadership
+- Accelerated QA, performance testing, and critical bug resolution
+- Digital transformation and IT support for local businesses
 
 ---
 
 ## 🏆 **Why Choose Us**
 
-✅ **15+ years** of proven expertise  
-✅ **Data-driven** creative decisions  
-✅ **100% remote** global operations  
-✅ **Continuous optimization** approach  
+✅ **15 Years** of full-stack software engineering expertise  
+✅ **Data-Driven & Frugal** organization focused on measurable ROI  
+✅ **Modern Stack** prioritizing speed, server components, and clean UI/UX  
+✅ **Tailored Solutions** from rapid prototyping to enterprise-grade cloud apps  
 
 ---
 
-## 📈 **Tech Stack**
+## 📈 **Core Tech Stack**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-*Combining creative vision with AI-powered analytics to deliver measurable business results.*
+*Audacieux par nature, ingénieux par métier. Transforming complex technical challenges into streamlined, operational solutions.*
